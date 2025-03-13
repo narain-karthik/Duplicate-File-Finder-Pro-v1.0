@@ -1,0 +1,15 @@
+# Core dependencies
+psutil>=5.9.0
+
+# Note: The following are part of Python standard library and don't need to be included in requirements.txt:
+# os
+# hashlib
+# tkinter
+# threading
+# time
+# subprocess
+# datetime
+# stat
+# mimetypes
+# pwd (Unix only)
+# sys
