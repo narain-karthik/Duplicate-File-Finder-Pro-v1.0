@@ -28,7 +28,7 @@ Optional: psutil for enhanced drive information <br><br>
 
 **Steps**<br>
 1. Clone the Repository:<br>
-git clone https://github.com/Alpha-Titans/Duplicate-File-Finder-Pro-v1.0.git  <br>
+git clone https://github.com/narain-karthik/Duplicate-File-Finder-Pro-v1.0.git  <br>
 cd Duplicate-File-Finder-Pro-v1.0<br>
 
 2. Install Dependencies: <br>
